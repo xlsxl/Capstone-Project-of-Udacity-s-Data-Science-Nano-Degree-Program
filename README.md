@@ -1,4 +1,4 @@
-# Capstone-Project-of-Udacity-s-Data-Scientist-Nano-Degree-Program
+# Capstone Project of Udacity's Data Scientist Nano Degree Program
 This is my Capstone Project of Udacity Data Scientist Nano Degree Program. It aims to create a customer segmentation report for Arvato Financial Solutions.Project contains three major steps: Customer Segmentation, Supervised Learning Model and Kaggle Competition. Data has been provided by Bertelmans Arvato: Data of customers of a mail-order sales company in Germany and the data of the general population in Germany had been analyzed. To perform customer segmentation; to identify which part of the population best represents or describe the company's customer profile, unsupurvised Machine Learning techniques were applied. Afterwards, a supervised learning model have been created to predict which individuals most likely to become customers of the company through a dataset having demographic information of targets of the marketing campaign of the company.
 
 
